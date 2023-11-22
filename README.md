@@ -1,5 +1,15 @@
 # Online News Popularity Classification Task
 
+<p align="left">
+    <img src="https://img.shields.io/github/stars/msarnacki/online-news-popularity-classification"/>
+    <img src="https://img.shields.io/github/watchers/msarnacki/online-news-popularity-classification"/>
+    <img src="https://img.shields.io/github/commit-activity/t/msarnacki/online-news-popularity-classification"/>
+    <img src="https://img.shields.io/github/last-commit/msarnacki/online-news-popularity-classification"/>
+    <img src="https://img.shields.io/github/issues/msarnacki/online-news-popularity-classification"/>
+    <img src="https://img.shields.io/github/languages/top/msarnacki/online-news-popularity-classification"/>
+    <img src="https://img.shields.io/github/repo-size/msarnacki/online-news-popularity-classification"/>
+</p>
+
 Source of the data I used:  [UCI Machine Learning Repository - Online News Popularity](https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity).
 
 Original data includes 60 attributes of an article posted online on Mashable.com and 'target' which is number of shares of that article. I've transformed athe target from continous number to a binary variable. By splitting value I chose 1400 which is a median of number of shares.  53,6% of articles had 1400 or more shares and the rest was below that number.
